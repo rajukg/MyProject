@@ -10,5 +10,8 @@ Project set up
 ========================Start=========================
 https://getbootstrap.com/
 1) Navigation
+ng g environments
+ng g c mycomponent
+ng g s product/product
 =========================End==========================
 
